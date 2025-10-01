@@ -10,25 +10,25 @@ const settings = {
 //Home Page
 const greeting = {
   title: "Hello 👋.",
-  title2: "Harikrushn",
-  logo_name: "harry.k()",
-  nickname: "harry / picleric",
-  full_name: "Harikrushn Kanani",
-  subTitle: "Backend Developer, Open Source Enthusiast 🔥. Always learning.",
+  title2: "najihahrhmn",
+  logo_name: "geenius space",
+  nickname: "gee",
+  full_name: "Najihah Rahman",
+  subTitle: "Website Designer, Payment specialist 🔥. Always learning.",
   resumeLink:
-    "https://drive.google.com/file/d/1ThjCisD-FnEPQcYAYU2XBsulYWcyCGF2/view?usp=drivesdk",
-  mail: "mailto:hkanani191@gmail.com",
+    "https://drive.google.com/file/",
+  mail: "mailto:najihah.rahmansamat@gmail.com",
 };
 
 const socialMediaLinks = {
   /* Your Social Media Link */
-  github: "https://github.com/harikanani",
-  linkedin: "https://www.linkedin.com/in/harikrushn-kanani/",
-  gmail: "hkanani191@gmail.com",
-  gitlab: "https://gitlab.com/harikanani",
+  github: "https://github.com/najihahrhmn",
+  linkedin: "https://www.linkedin.com/in/najihahrahman/",
+  gmail: "najihah.rahmansamat@gmail.com",
+  // gitlab: "https://gitlab.com/harikanani",
   // facebook: "https://www.facebook.com/harikrishan.kanani/",
-  twitter: "https://twitter.com/Harikrushn9",
-  instagram: "https://www.instagram.com/hari_kanani_/",
+  // twitter: "https://twitter.com/Harikrushn9",
+  // instagram: "https://www.instagram.com/hari_kanani_/",
 };
 
 const skills = {
